@@ -18,6 +18,11 @@ h2{
 	text-decoration:underline;
 }
 
+a {
+	color:#546d96;
+}
+
+
 /*Div for all content*/
 #all-content {
 	max-width:960px;
