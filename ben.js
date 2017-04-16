@@ -4,10 +4,10 @@ function dropDown() {
 
 	if (x.classList.contains("horizontal-nav")) {
 		x.className = "mobile-nav";
-		y.className = "fa-times";
+		y.className = "fa fa-times";
 	} else {
 		x.className = "horizontal-nav";
-		y.className = "fa-bars";
+		y.className = "fa fa-bars";
 	}
 
 }
