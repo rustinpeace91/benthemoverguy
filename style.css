@@ -3,7 +3,7 @@ body  {
 }
 
 p, h2, li {
-	font-family:"Arial";
+	font-family:"Arial", sans-serif;
 	color:#47494c;
 }
 
@@ -46,7 +46,7 @@ img#mobile-title-image, a#mobile-icon {
 
 header a {
 	display:inline-block;
-	font-family:"Arial Black";
+	font-family:"Arial Black", "Arial", sans-serif;
 	font-size:11;
 	font-weight:normal;
 	color:white;
